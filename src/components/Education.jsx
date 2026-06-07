@@ -7,8 +7,8 @@ export default function Education() {
       org: "NPTEL Certification"
     },
     {
-      title: "Programming for Everybody (Getting Started with Python)",
-      org: "Python Basics certification"
+      title: "Introduction to Deep Learning",
+      org: "NPTEL Certification"
     },
     {
       title: "Python Essentials 1 & 2",

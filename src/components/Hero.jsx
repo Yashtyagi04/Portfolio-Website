@@ -72,10 +72,10 @@ export default function Hero() {
             <a href="mailto:tyagiyash920@gmail.com" className="social-icon" aria-label="Email">
               <i className="fa-solid fa-envelope"></i>
             </a>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="GitHub">
+            <a href="https://github.com/Yashtyagi04" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="GitHub">
               <i className="fa-brands fa-github"></i>
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/tyagiyash920" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="LinkedIn">
               <i className="fa-brands fa-linkedin-in"></i>
             </a>
           </div>
